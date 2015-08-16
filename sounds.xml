@@ -1,0 +1,3032 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="sounds2.xsl"?>
+<sounds>
+	<sound name="амнямням">
+		<usage description="поедание с аппетитом">
+			<class>
+				человек
+			</class>
+			<original language="en">
+				omnomnom
+			</original>
+		</usage>
+	</sound>
+	<sound name="апчхи">
+		<usage description="чихание">
+			<class>
+				человек
+			</class>
+			<original language="en">
+				sneeze
+			</original>
+		</usage>
+	</sound>
+	<sound name="ауу">
+		<usage description="вой волка">
+			<class>
+				животные
+			</class>
+			<original language="en">
+				aroo
+			</original>
+		</usage>
+	</sound>
+	<sound name="аххаха">
+		<usage description="смех">
+			<class>
+				человек
+			</class>
+		</usage>
+	</sound>
+	<sound name="бабах">
+		<usage description="хлопание дверью">
+			<class>
+				шумы
+			</class>
+			<original language="en">
+				wham
+			</original>
+		</usage>
+		<usage description="взрыв">
+			<class>
+				шумы
+			</class>
+			<original language="en">
+				kaboom
+			</original>
+		</usage>
+	</sound>
+	<sound name="бам">
+		<usage description="удар дверью">
+			<class>
+				шумы
+			</class>
+			<original language="en">
+				wham
+			</original>
+		</usage>
+		<usage description="падение">
+			<class>
+				шумы
+			</class>
+			<original language="en">
+				whump
+			</original>
+		</usage>
+		<usage description="удар по столу">
+			<class>
+				шумы
+			</class>
+			<original language="en">
+				slam
+			</original>
+		</usage>
+		<usage description="удар">
+			<class>
+				шумы
+			</class>
+			<original language="en">
+				bam
+			</original>
+		</usage>
+	</sound>
+	<sound name="бамс">
+		<usage description="соударение">
+			<class>
+				шумы
+			</class>
+			<original language="en">
+				whap
+			</original>
+		</usage>
+	</sound>
+	<sound name="бамх">
+		<usage description="падение">
+			<class>
+				шумы
+			</class>
+			<original language="en">
+				wump
+			</original>
+		</usage>
+	</sound>
+	<sound name="бах">
+		<usage description="выстрел">
+			<class>
+				шумы
+			</class>
+			<original language="en">
+				blam
+			</original>
+		</usage>
+		<usage description="удар">
+			<class>
+				шумы
+			</class>
+			<original language="en">
+				baff
+			</original>
+		</usage>
+		<usage description="внезапная вспышка света">
+			<class>
+				эффекты
+			</class>
+			<original language="en">
+				pop
+			</original>
+		</usage>
+	</sound>
+	<sound name="бац">
+		<usage description="столкновение">
+			<class>
+				эффекты
+			</class>
+			<original language="en">
+				whump
+			</original>
+		</usage>
+		<usage description="удар">
+			<class>
+				эффекты
+			</class>
+			<original language="en">
+				pow
+			</original>
+		</usage>
+	</sound>
+	<sound name="бдыщь">
+		<usage description="удар">
+			<class>
+				шумы
+			</class>
+			<original language="en">
+				wham
+			</original>
+		</usage>
+	</sound>
+	<sound name="бзз">
+		<usage description="жужжание">
+			<class>
+				машины
+			</class>
+			<original language="en">
+				bzz
+			</original>
+		</usage>
+	</sound>
+	<sound name="бзиньк">
+		<usage description="попадание пули в металл по касательной">
+			<class>
+				твёрдые предметы
+			</class>
+		</usage>
+	</sound>
+	<sound name="бип">
+		<usage description="сигнал">
+			<class>
+				машины
+			</class>
+			<original language="en">
+				beep
+			</original>
+		</usage>
+	</sound>
+	<sound name="блись">
+		<usage description="блестеть">
+			<class>
+				эффекты
+			</class>
+		</usage>
+	</sound>
+	<sound name="бом">
+		<usage description="гулкий звон">
+			<class>
+				шумы
+			</class>
+		</usage>
+	</sound>
+	<sound name="брр">
+		<usage description="дрожать от холода">
+			<class>
+				человек
+			</class>
+			<original language="en">
+				brr
+			</original>
+		</usage>
+	</sound>
+	<sound name="бррль">
+		<usage description="бурление, кипение">
+			<class>
+				жидкости
+			</class>
+			<original language="en">
+				grrble
+			</original>
+		</usage>
+	</sound>
+	<sound name="брызг">
+		<usage description="брызги">
+			<class>
+				жидкости
+			</class>
+			<original language="en">
+				splatter
+			</original>
+		</usage>
+	</sound>
+	<sound name="бряк">
+		<usage description="закрытие двери">
+			<class>
+				твёрдые предметы
+			</class>
+			<original language="en">
+				clank
+			</original>
+		</usage>
+	</sound>
+	<sound name="бряц">
+		<usage description="металлический звон">
+			<class>
+				твёрдые предметы
+			</class>
+		</usage>
+	</sound>
+	<sound name="бултых">
+		<usage description="падение тяжёлого предмета в воду">
+			<class>
+				жидкости
+			</class>
+		</usage>
+	</sound>
+	<sound name="буль">
+		<usage description="вода вытекает из бутылки">
+			<class>
+				жидкости
+			</class>
+			<original language="en">
+				glug
+			</original>
+		</usage>
+	</sound>
+	<sound name="бульк">
+		<usage description="падение в воду">
+			<class>
+				жидкости
+			</class>
+			<original language="en">
+				splash
+			</original>
+		</usage>
+		<usage description="пузырьки лопаются в густой жидкости">
+			<class>
+				жидкости
+			</class>
+			<original language="en">
+				bloop
+			</original>
+		</usage>
+	</sound>
+	<sound name="бум">
+		<usage description="гулкий удар">
+			<class>
+				шумы
+			</class>
+		</usage>
+	</sound>
+	<sound name="бумс">
+		<usage description="громкий удар">
+			<class>
+				шумы
+			</class>
+		</usage>
+	</sound>
+	<sound name="буррл">
+		<usage description="урчание в животе">
+			<class>
+				человек
+			</class>
+			<original language="en">
+				rumble
+			</original>
+		</usage>
+	</sound>
+	<sound name="бух">
+		<usage description="падение тяжёлого предмета">
+			<class>
+				шумы
+			</class>
+			<original language="en">
+				wham
+			</original>
+			<original language="en">
+				thud
+			</original>
+		</usage>
+	</sound>
+	<sound name="ваф">
+		<usage description="лай собаки">
+			<class>
+				животные
+			</class>
+			<original language="en">
+				woof
+			</original>
+		</usage>
+	</sound>
+	<sound name="верть">
+		<usage description="поворот">
+			<class>
+				действия
+			</class>
+		</usage>
+	</sound>
+	<sound name="вжик">
+		<usage description="промелькнуть">
+			<class>
+				действия
+			</class>
+			<original language="en">
+				zip
+			</original>
+		</usage>
+	</sound>
+	<sound name="вжих">
+		<usage description="взмах меча">
+			<class>
+				шумы
+			</class>
+			<original language="en">
+				swish
+			</original>
+			<original language="en">
+				whisht
+			</original>
+		</usage>
+	</sound>
+	<sound name="вжих-ух">
+		<usage description="звук пилы">
+			<class>
+				твёрдые предметы
+			</class>
+			<original language="en">
+				kreek-ah
+			</original>
+		</usage>
+	</sound>
+	<sound name="вжух">
+		<usage description="раздвигание створок">
+			<class>
+				эффекты
+			</class>
+			<original language="en">
+				snap
+			</original>
+		</usage>
+		<usage description="стремительное движение">
+			<class>
+				шумы
+			</class>
+			<original language="en">
+				whoosh
+			</original>
+		</usage>
+	</sound>
+	<sound name="виу">
+		<usage description="сирена">
+			<class>
+				машины
+			</class>
+		</usage>
+	</sound>
+	<sound name="вржж">
+		<usage description="старт мотоцикла с места">
+			<class>
+				машины
+			</class>
+		</usage>
+	</sound>
+	<sound name="врынь">
+		<usage description="звук мотора">
+			<class>
+				машины
+			</class>
+			<original language="en">
+				wroom
+			</original>
+		</usage>
+	</sound>
+	<sound name="вспых">
+		<usage description="огонь зажёгся">
+			<class>
+				действия
+			</class>
+		</usage>
+	</sound>
+	<sound name="вуу">
+		<usage description="завывание ветра">
+			<class>
+				природа
+			</class>
+			<original language="en">
+				hwoo
+			</original>
+		</usage>
+		<usage description="гул сильного огня">
+			<class>
+				природа
+			</class>
+		</usage>
+	</sound>
+	<sound name="вух">
+		<usage description="быстро пробежать">
+			<class>
+				эффекты
+			</class>
+			<original language="en">
+				voop
+			</original>
+		</usage>
+	</sound>
+	<sound name="вшух">
+		<usage description="взлёт на метле">
+			<class>
+				шумы
+			</class>
+			<original language="en">
+				whoosh
+			</original>
+		</usage>
+	</sound>
+	<sound name="гав">
+		<usage description="лай собаки">
+			<class>
+				животные
+			</class>
+		</usage>
+	</sound>
+	<sound name="гладь">
+		<usage description="приглаживать">
+			<class>
+				действия
+			</class>
+		</usage>
+	</sound>
+	<sound name="глоть">
+		<usage description="сглатывание">
+			<class>
+				действия
+			</class>
+			<original language="en">
+				gulp
+			</original>
+		</usage>
+	</sound>
+	<sound name="глык">
+		<usage description="питьё из бутылки">
+			<class>
+				действия
+			</class>
+			<original language="en">
+				glug
+			</original>
+		</usage>
+	</sound>
+	<sound name="глыть">
+		<usage description="проглатывание">
+			<class>
+				действия
+			</class>
+			<original language="en">
+				gulp
+			</original>
+		</usage>
+	</sound>
+	<sound name="глядь">
+		<usage description="смотреть по сторонам">
+			<class>
+				действия
+			</class>
+			<original language="en">
+				peek
+			</original>
+		</usage>
+	</sound>
+	<sound name="грак">
+		<usage description="стук камней">
+			<class>
+				твёрдые предметы
+			</class>
+			<original language="en">
+				clak
+			</original>
+		</usage>
+	</sound>
+	<sound name="громых">
+		<usage description="раскат грома">
+			<class>
+				шумы
+			</class>
+			<class>
+				природа
+			</class>
+			<original language="en">
+				rumble
+			</original>
+		</usage>
+	</sound>
+	<sound name="грох">
+		<usage description="бьётся посуда">
+			<class>
+				шумы
+			</class>
+		</usage>
+	</sound>
+	<sound name="грохот">
+		<usage description="камнепад">
+			<class>
+				шумы
+			</class>
+			<original language="en">
+				rumble
+			</original>
+		</usage>
+		<usage description="бьётся посуда">
+			<class>
+				шумы
+			</class>
+			<original language="en">
+				crash
+			</original>
+		</usage>
+	</sound>
+	<sound name="грр">
+		<usage description="приглушённое рычание">
+			<class>
+				животные
+			</class>
+			<original language="en">
+				grr
+			</original>
+		</usage>
+	</sound>
+	<sound name="грызь">
+		<usage description="укусить">
+			<class>
+				действия
+			</class>
+			<original language="en">
+				crunch
+			</original>
+		</usage>
+	</sound>
+	<sound name="двиг">
+		<usage description="отодвигаться">
+			<class>
+				действия
+			</class>
+			<original language="en">
+				scoot
+			</original>
+		</usage>
+	</sound>
+	<sound name="дёрг">
+		<usage description="срывание плода">
+			<class>
+				действия
+			</class>
+			<original language="en">
+				pluck
+			</original>
+		</usage>
+		<usage description="вырывание из рук">
+			<class>
+				действия
+			</class>
+			<original language="en">
+				yank
+			</original>
+		</usage>
+		<usage description="нервный тик">
+			<class>
+				действия
+			</class>
+			<original language="en">
+				twitch
+			</original>
+		</usage>
+		<usage description="дёргание, затягивание узла">
+			<class>
+				действия
+			</class>
+			<original language="en">
+				tug
+			</original>
+		</usage>
+		<usage description="подёргивание">
+			<class>
+				действия
+			</class>
+			<original language="en">
+				flick
+			</original>
+		</usage>
+	</sound>
+	<sound name="дзынь">
+		<usage description="удар меча о дерево">
+			<class>
+				твёрдые предметы
+			</class>
+			<original language="en">
+				ka-cheeng
+			</original>
+		</usage>
+		<usage description="телефон, дверной звонок">
+			<class>
+				машины
+			</class>
+			<original language="en">
+				ring
+			</original>
+		</usage>
+	</sound>
+	<sound name="динь">
+		<usage description="колокольчик">
+			<class>
+				музыка
+			</class>
+		</usage>		
+	</sound>
+	<sound name="динь-дон">
+		<usage description="звонок в дверь">
+			<class>
+				машины
+			</class>
+		</usage>
+	</sound>
+	<sound name="дрынь">
+		<usage description="работа двигателя">
+			<class>
+				машины
+			</class>
+		</usage>
+	</sound>
+	<sound name="дрындындын">
+		<usage description="работа двигателя">
+			<class>
+				машины
+			</class>
+		</usage>
+	</sound>
+	<sound name="дыр">
+		<usage description="работа двигателя">
+			<class>
+				машины
+			</class>
+		</usage>
+	</sound>
+	<sound name="жамк">
+		<usage description="сжимать">
+			<class>
+				действия
+			</class>
+		</usage>
+	</sound>
+	<sound name="жах">
+		<usage description="падение, удар">
+			<class>
+				шумы
+			</class>
+			<original language="en">
+				whud
+			</original>
+		</usage>
+	</sound>
+	<sound name="жж">
+		<usage description="пчела или шмель">
+			<class>
+				животные
+			</class>
+		</usage>
+	</sound>
+	<sound name="жмяк">
+		<usage description="сжимать">
+			<class>
+				действия
+			</class>
+		</usage>
+	</sound>
+	<sound name="звеньк">
+		<usage description="монеты в кошельке">
+			<class>
+				твёрдые предметы
+			</class>
+			<original language="en">
+				clink
+			</original>
+		</usage>
+	</sound>
+	<sound name="звяк">
+		<usage description="звон монет">
+			<class>
+				твёрдые предметы
+			</class>
+			<original language="en">
+				clink
+			</original>
+		</usage>
+		<usage description="глухой звук посуды">
+			<class>
+				твёрдые предметы
+			</class>
+			<original language="en">
+				clank
+			</original>
+		</usage>
+		<usage description="звон мечей">
+			<class>
+				твёрдые предметы
+			</class>
+			<original language="en">
+				clang
+			</original>
+		</usage>
+	</sound>
+	<sound name="зёв">
+		<usage description="зевок">
+			<class>
+				действия
+			</class>
+			<original language="en">
+				yawn
+			</original>
+		</usage>
+	</sound>
+	<sound name="ззынь">
+		<usage description="звон доставания клинка из ножен">
+			<class>
+				шумы
+			</class>
+			<original language="en">
+				schling
+			</original>
+		</usage>
+	</sound>
+	<sound name="зырк">
+		<usage description="злобный или пронзительный взгляд">
+			<class>
+				действия
+			</class>
+			<original language="en">
+				glare
+			</original>
+		</usage>
+	</sound>
+	<sound name="и-">
+		<usage description="усилительная частица">
+			<class>
+				эффекты
+			</class>
+			<original language="en">
+				ker-
+			</original>
+			<original language="en">
+				ka-
+			</original>
+		</usage>
+	</sound>
+	<sound name="игого">
+		<usage description="ржанье лошади">
+			<class>
+				животные
+			</class>
+			<original language="en">
+				whinny
+			</original>
+		</usage>
+	</sound>
+	<sound name="ииаа">
+		<usage description="рёв осла">
+			<class>
+				животные
+			</class>
+		</usage>
+	</sound>
+	<sound name="ик">
+		<usage description="икотка">
+			<class>
+				человек
+			</class>
+			<original language="en">
+				hic
+			</original>
+		</usage>
+	</sound>
+	<sound name="кап">
+		<usage description="капли воды">
+			<class>
+				жидкости
+			</class>
+			<original language="en">
+				plip
+			</original>
+		</usage>
+	</sound>
+	<sound name="карр">
+		<usage description="ворона">
+			<class>
+				животные
+			</class>
+			<original language="en">
+				kra
+			</original>
+		</usage>
+	</sound>
+	<sound name="ка чпох">
+		<usage description="срабатывание катапульт">
+			<class>
+				шумы
+			</class>
+			<original language="en">
+				wa chung
+			</original>
+		</usage>
+	</sound>
+	<sound name="ква">
+		<usage description="квакание лягушки">
+			<class>
+				животные
+			</class>
+			<original language="en">
+				ribbit
+			</original>
+		</usage>
+	</sound><sound name="квак">
+		<usage description="квакание лягушки">
+			<class>
+				животные
+			</class>
+			<original language="en">
+				ribbit
+			</original>
+		</usage>
+	</sound>
+	<sound name="квох">
+		<usage description="кудахтанье курицы">
+			<class>
+				животные
+			</class>
+			<original language="en">
+				bawk
+			</original>
+		</usage>
+	</sound>
+	<sound name="клац">
+		<usage description="затвор">
+			<class>
+				машины
+			</class>
+		</usage>
+		<usage description="щёлкать зубами">
+			<class>
+				действия
+			</class>
+		</usage>
+	</sound>
+	<sound name="кляк">
+		<usage description="стук деревянных деталей">
+			<class>
+				машины
+			</class>
+		</usage>
+	</sound>
+	<sound name="ко">
+		<usage description="кудахтанье курицы">
+			<class>
+				животные
+			</class>
+			<original language="en">
+				buck
+			</original>
+		</usage>
+	</sound>
+	<sound name="ковыль">
+		<usage description="хромать, ковылять">
+			<class>
+				действия
+			</class>
+			<original language="en">
+				hobble
+			</original>
+		</usage>
+	</sound>
+	<sound name="кох">
+		<usage description="кудахтанье курицы">
+			<class>
+				животные
+			</class>
+			<original language="en">
+				awk
+			</original>
+		</usage>
+	</sound>
+	<sound name="крен">
+		<usage description="наклон">
+			<class>
+				действия
+			</class>
+			<original language="en">
+				lurch
+			</original>
+		</usage>
+	</sound>
+	<sound name="круть">
+		<usage description="кручение">
+			<class>
+				действия
+			</class>
+			<original language="en">
+				twist
+			</original>
+		</usage>
+		<usage description="качение">
+			<class>
+				действия
+			</class>
+			<original language="en">
+				roll
+			</original>
+		</usage>
+	</sound>
+	<sound name="кря">
+		<usage description="утка">
+			<class>
+				животные
+			</class>
+		</usage>
+	</sound>
+	<sound name="кудах">
+		<usage description="кудахтанье курицы">
+			<class>
+				животные
+			</class>
+			<original language="en">
+				buck kuck
+			</original>
+			<original language="en">
+				bawk
+			</original>
+		</usage>
+	</sound>
+	<sound name="кукареку">
+		<usage description="петух">
+			<class>
+				животные
+			</class>
+		</usage>
+	</sound>
+	<sound name="кусь">
+		<usage description="укусить">
+			<class>
+				действия
+			</class>
+		</usage>
+	</sound>
+	<sound name="кха">
+		<usage description="сухой кашель">
+			<class>
+				человек
+			</class>
+			<original language="en">
+				hack
+			</original>
+		</usage>
+	</sound>
+	<sound name="кхе">
+		<usage description="кашель">
+			<class>
+				человек
+			</class>
+			<original language="en">
+				koff
+			</original>
+		</usage>
+		<usage description="сухой кашель">
+			<class>
+				человек
+			</class>
+			<original language="en">
+				hack
+			</original>
+		</usage>
+	</sound>
+	<sound name="кхм">
+		<usage description="покашливать, прочищая горло">
+			<class>
+				человек
+			</class>
+			<original language="en">
+				ahem
+			</original>
+		</usage>
+	</sound>
+	<sound name="кхо">
+		<usage description="кашель">
+			<class>
+				человек
+			</class>
+			<original language="en">
+				kaff
+			</original>
+		</usage>
+	</sound>
+	<sound name="лизь">
+		<usage description="лизание">
+			<class>
+				действия
+			</class>
+			<original language="en">
+				lick
+			</original>
+		</usage>
+	</sound>
+	<sound name="лязг">
+		<usage description="звон металла">
+			<class>
+				твёрдые предметы
+			</class>
+			<original language="en">
+				clang
+			</original>
+		</usage>
+	</sound>
+	<sound name="мах">
+		<usage description="махнуть">
+			<class>
+				действия
+			</class>
+		</usage>
+	</sound>
+	<sound name="мвахаха">
+		<usage description="злобный смех">
+			<class>
+				человек
+			</class>
+		</usage>
+	</sound>
+	<sound name="миг">
+		<usage description="моргание">
+			<class>
+				действия
+			</class>
+			<original language="en">
+				blink
+			</original>
+		</usage>
+	</sound>
+	<sound name="миу">
+		<usage description="кот или котёнок">
+			<class>
+				животные
+			</class>
+		</usage>
+	</sound>
+	<sound name="мрр">
+		<usage description="кот">
+			<class>
+				животные
+			</class>
+		</usage>
+	</sound>
+	<sound name="му">
+		<usage description="мычание коровы">
+			<class>
+				животные
+			</class>
+			<original language="en">
+				moo
+			</original>
+		</usage>
+	</sound>
+	<sound name="мур">
+		<usage description="кот">
+			<class>
+				животные
+			</class>
+		</usage>
+	</sound>
+	<sound name="мяу">
+		<usage description="кот">
+			<class>
+				животные
+			</class>
+		</usage>
+	</sound>
+	<sound name="нюх">
+		<usage description="нюхание">
+			<class>
+				действия
+			</class>
+			<original language="en">
+				snuff
+			</original>
+			<original language="en">
+				sniff
+			</original>
+		</usage>
+	</sound>
+	<sound name="ням">
+		<usage description="поедание">
+			<class>
+				действия
+			</class>
+		</usage>
+	</sound>
+	<sound name="паф">
+		<usage description="выстрел">
+			<class>
+				шумы
+			</class>
+			<original language="en">
+				bang
+			</original>
+		</usage>
+	</sound>
+	<sound name="пвфв">
+		<usage description="показывает язык">
+			<class>
+				человек
+			</class>
+			<original language="en">
+				thbt
+			</original>
+		</usage>
+	</sound>
+	<sound name="писк">
+		<usage description="писк летучей мыши">
+			<class>
+				животные
+			</class>
+			<original language="en">
+				skweek
+			</original>
+		</usage>
+	</sound>
+	<sound name="пиу">
+		<usage description="выстрел">
+			<class>
+				шумы
+			</class>
+		</usage>
+	</sound>
+	<sound name="плесь">
+		<usage description="тихий всплеск воды">
+			<class>
+				жидкости
+			</class>
+		</usage>
+	</sound>
+	<sound name="плёх">
+		<usage description="всплеск воды">
+			<class>
+				жидкости
+			</class>
+		</usage>
+	</sound>
+	<sound name="плюх">
+		<usage description="всплеск воды">
+			<class>
+				жидкости
+			</class>
+			<original language="en">
+				splash
+			</original>
+			<original language="en">
+				plop
+			</original>
+		</usage>
+		<usage description="всплеск грязи">
+			<class>
+				жидкости
+			</class>
+			<original language="en">
+				splut
+			</original>
+		</usage>
+		<usage description="расплёскивание из кружки">
+			<class>
+				жидкости
+			</class>
+			<original language="en">
+				splibt
+			</original>
+		</usage>
+		<usage description="плюхнуться, шмякнуться">
+			<class>
+				действия
+			</class>
+			<original language="en">
+				flop
+			</original>
+		</usage>
+	</sound>
+	<sound name="плясь">
+		<usage description="всплеск воды">
+			<class>
+				жидкости
+			</class>
+			<original language="en">
+				splash
+			</original>
+		</usage>
+	</sound>
+	<sound name="порх">
+		<usage description="взлёт птицы или бабочки">
+			<class>
+				действия
+			</class>
+		</usage>
+	</sound>
+	<sound name="поум">
+		<usage description="пружинящий звук">
+			<class>
+				эффекты
+			</class>
+			<original language="en">
+				yoing
+			</original>
+		</usage>
+	</sound>
+	<sound name="прыг">
+		<usage description="прыжок">
+			<class>
+				действия
+			</class>
+			<original language="en">
+				leap
+			</original>
+			<original language="en">
+				fwump
+			</original>
+		</usage>
+		<usage description="подпрыгивание">
+			<class>
+				действия
+			</class>
+			<original language="en">
+				spring
+			</original>
+		</usage>
+		<usage description="внезапное появление">
+			<class>
+				действия
+			</class>
+			<original language="en">
+				pop
+			</original>
+		</usage>
+	</sound>
+	<sound name="пум">
+		<usage description="удар мягким предметом">
+			<class>
+				шумы
+			</class>
+		</usage>
+	</sound>
+	<sound name="пуф">
+		<usage description="столкновение двух людей">
+			<class>
+				эффекты
+			</class>
+			<original language="en">
+				wumf
+			</original>
+		</usage>
+	</sound>
+	<sound name="пфф">
+		<usage description="выдох пренебрежения">
+			<class>
+				человек
+			</class>
+			<original language="en">
+				pff
+			</original>
+		</usage>
+	</sound>
+	<sound name="пшик">
+		<usage description="распылять из флакона">
+			<class>
+				действия
+			</class>
+			<original language="en">
+				pssft
+			</original>
+		</usage>
+	</sound>
+	<sound name="пшуфф">
+		<usage description="втягивание, засасывание">
+			<class>
+				шумы
+			</class>
+			<original language="en">
+				fshup
+			</original>
+		</usage>
+	</sound>
+	<sound name="пшш">
+		<usage description="газ из клапана">
+			<class>
+				шумы
+			</class>
+		</usage>
+	</sound>
+	<sound name="пых">
+		<usage description="пыхтение">
+			<class>
+				животные
+			</class>
+			<original language="en">
+				huff
+			</original>
+		</usage>
+	</sound>
+	<sound name="пыщь">
+		<usage description="выстрел">
+			<class>
+				машины
+			</class>
+		</usage>
+	</sound>
+	<sound name="пэум">
+		<usage description="пружинистые колебания">
+			<class>
+				эффекты
+			</class>
+			<original language="en">
+				twoing
+			</original>
+		</usage>
+		<usage description="пружинистые колебания">
+			<class>
+				эффекты
+			</class>
+			<original language="en">
+				woing
+			</original>
+		</usage>
+	</sound>
+	<sound name="резь">
+		<usage description="разрезать">
+			<class>
+				действия
+			</class>
+			<original language="en">
+				slice
+			</original>
+		</usage>
+	</sound>
+	<sound name="рип">
+		<usage description="скрип сапог">
+			<class>
+				шумы
+			</class>
+		</usage>
+	</sound>
+	<sound name="рмм">
+		<usage description="гул">
+			<class>
+				шумы
+			</class>
+			<original language="en">
+				rmm
+			</original>
+		</usage>
+	</sound>
+	<sound name="рох">
+		<usage description="хрюканье свиньи">
+			<class>
+				животные
+			</class>
+			<original language="en">
+				hnx
+			</original>
+		</usage>
+	</sound>
+	<sound name="руп">
+		<usage description="шаги по снегу">
+			<class>
+				природа
+			</class>
+		</usage>
+	</sound>
+	<sound name="рыг">
+		<usage description="отрыжка">
+			<class>
+				действия
+			</class>
+			<original language="en">
+				burp
+			</original>
+		</usage>
+	</sound>
+	<sound name="рык">
+		<usage description="рычание">
+			<class>
+				животные
+			</class>
+			<original language="en">
+				snarl
+			</original>
+		</usage>
+	</sound>
+	<sound name="рявк">
+		<usage description="рычание">
+			<class>
+				животные
+			</class>
+			<original language="en">
+				snarl
+			</original>
+		</usage>
+	</sound>
+	<sound name="сверк">
+		<usage description="блестеть, сверкать">
+			<class>
+				эффекты
+			</class>
+		</usage>
+	</sound>
+	<sound name="свись">
+		<usage description="резкий взмах">
+			<class>
+				шумы
+			</class>
+			<original language="en">
+				whip
+			</original>
+		</usage>
+	</sound>
+	<sound name="сёрб">
+		<usage description="питьё">
+			<class>
+				действия
+			</class>
+		</usage>
+	</sound>
+	<sound name="сип">
+		<usage description="питьё">
+			<class>
+				действия
+			</class>
+			<original language="en">
+				sip
+			</original>
+		</usage>
+	</sound>
+	<sound name="сквить">
+		<usage description="скрип пробки в бутылке">
+			<class>
+				твёрдые предметы
+			</class>
+			<original language="en">
+				squick
+			</original>
+		</usage>
+	</sound>
+	<sound name="скок">
+		<usage description="прыжок">
+			<class>
+				действия
+			</class>
+			<original language="en">
+				hop
+			</original>
+		</usage>
+	</sound>
+	<sound name="скользь">
+		<usage description="скольжение">
+			<class>
+				действия
+			</class>
+			<original language="en">
+				slide
+			</original>
+		</usage>
+	</sound>
+	<sound name="скрии">
+		<usage description="пронзительный писк">
+			<class>
+				животные
+			</class>
+		</usage>
+	</sound>
+	<sound name="скрип">
+		<usage description="скрип двери">
+			<class>
+				твёрдые предметы
+			</class>
+			<original language="en">
+				creak
+			</original>
+		</usage>
+		<usage description="скрип пера">
+			<class>
+				твёрдые предметы
+			</class>
+			<original language="en">
+				scratch
+			</original>
+		</usage>
+	</sound>
+	<sound name="скуль">
+		<usage description="скулёж">
+			<class>
+				животные
+			</class>
+			<original language="en">
+				whine
+			</original>
+		</usage>
+	</sound>
+	<sound name="сморк">
+		<usage description="высморкаться">
+			<class>
+				действия
+			</class>
+			<original language="en">
+				honk
+			</original>
+		</usage>
+	</sound>
+	<sound name="стиск">
+		<usage description="сжатие">
+			<class>
+				действия
+			</class>
+			<original language="en">
+				squeeze
+			</original>
+		</usage>
+		<usage description="сжимать кулак">
+			<class>
+				действия
+			</class>
+			<original language="en">
+				clench
+			</original>
+		</usage>
+	</sound>
+	<sound name="стук">
+		<usage description="стук в дверь">
+			<class>
+				действия
+			</class>
+			<original language="en">
+				knock
+			</original>
+		</usage>
+		<usage description="удар ногой">
+			<class>
+				твёрдые предметы
+			</class>
+			<original language="en">
+				thok
+			</original>
+		</usage>
+		<usage description="удар стрелы по металлу">
+			<class>
+				твёрдые предметы
+			</class>
+			<original language="en">
+				thuk
+			</original>
+		</usage>
+		<usage description="падение небольшого предмета">
+			<class>
+				шумы
+			</class>
+			<original language="en">
+				tmp
+			</original>
+		</usage>
+	</sound>
+	<sound name="тада">
+		<usage description="фанфары">
+			<class>
+				музыка
+			</class>
+			<original language="en">
+				tada
+			</original>
+		</usage>
+	</sound>
+	<sound name="тададах">
+		<usage description="падение с лестницы">
+			<class>
+				шумы
+			</class>
+		</usage>
+	</sound>
+	<sound name="тадам">
+		<usage description="фанфары">
+			<class>
+				музыка
+			</class>
+			<original language="en">
+				tada
+			</original>
+		</usage>
+	</sound>
+	<sound name="тадах">
+		<usage description="вышибание двери">
+			<class>
+				шумы
+			</class>
+			<original language="en">
+				wakam
+			</original>
+		</usage>
+	</sound>
+	<sound name="такатакатака">
+		<usage description="пулемётная очередь">
+			<class>
+				машины
+			</class>
+		</usage>
+	</sound>
+	<sound name="твеньк">
+		<usage description="пружина">
+			<class>
+				твёрдые предметы
+			</class>
+			<original language="en">
+				pwing
+			</original>
+		</usage>
+	</sound>
+	<sound name="тёр">
+		<usage description="тереть">
+			<class>
+				действия
+			</class>
+			<original language="en">
+				rub
+			</original>
+		</usage>
+	</sound>
+	<sound name="тикитак">
+		<usage description="шаги механического насекомого">
+			<class>
+				машины
+			</class>
+			<original language="en">
+				clickita
+			</original>
+		</usage>
+	</sound>
+	<sound name="тик-так">
+		<usage description="часы">
+			<class>
+				машины
+			</class>
+		</usage>
+	</sound>
+	<sound name="тиск">
+		<usage description="ёрзание">
+			<class>
+				действия
+			</class>
+			<original language="en">
+				wiggle
+			</original>
+		</usage>
+		<usage description="нажатие на кнопку">
+			<class>
+				действия
+			</class>
+		</usage>
+	</sound>
+	<sound name="ток">
+		<usage description="лёгкий удар">
+			<class>
+				шумы
+			</class>
+		</usage>
+	</sound>
+	<sound name="толк">
+		<usage description="толчок">
+			<class>
+				действия
+			</class>
+			<original language="en">
+				bump
+			</original>
+		</usage>
+	</sound>
+	<sound name="топ">
+		<usage description="шаги">
+			<class>
+				действия
+			</class>
+			<original language="en">
+				trod
+			</original>
+		</usage>
+		<usage description="бег">
+			<class>
+				действия
+			</class>
+			<original language="en">
+				thud
+			</original>
+		</usage>
+		<usage description="спуск по лестнице">
+			<class>
+				действия
+			</class>
+			<original language="en">
+				klomp
+			</original>
+		</usage>
+		<usage description="громкий топот">
+			<class>
+				действия
+			</class>
+			<original language="en">
+				pound
+			</original>
+		</usage>
+	</sound>
+	<sound name="тохтохтох">
+		<usage description="винт вертолёта">
+			<class>
+				машины
+			</class>
+		</usage>
+	</sound>
+	<sound name="тратата">
+		<usage description="автоматная очередь">
+			<class>
+				машины
+			</class>
+		</usage>
+	</sound>
+	<sound name="трах">
+		<usage description="затрещина">
+			<class>
+				действия
+			</class>
+			<original language="en">
+				smack
+			</original>
+		</usage>
+	</sound>
+	<sound name="трень">
+		<usage description="бренчание на гитаре">
+			<class>
+				музыка
+			</class>
+		</usage>
+	</sound>
+	<sound name="треньк">
+		<usage description="бренчание на гитаре">
+			<class>
+				музыка
+			</class>
+		</usage>
+	</sound>
+	<sound name="треск">
+		<usage description="ломаются доски">
+			<class>
+				шумы
+			</class>
+			<original language="en">
+				shrekt
+			</original>
+		</usage>
+		<usage description="хруст ветки">
+			<class>
+				твёрдые предметы
+			</class>
+			<original language="en">
+				crack
+			</original>
+		</usage>
+		<usage description="удар молнии">
+			<class>
+				природа
+			</class>
+			<original language="en">
+				crack
+			</original>
+		</usage>
+	</sound>
+	<sound name="тресь">
+		<usage description="разрыв стебля">
+			<class>
+				твёрдые предметы
+			</class>
+			<original language="en">
+				snap
+			</original>
+		</usage>
+	</sound>
+	<sound name="трог">
+		<usage description="прикосновение">
+			<class>
+				действия
+			</class>
+			<original language="en">
+				tap
+			</original>
+		</usage>
+	</sound>
+	<sound name="трынь">
+		<usage description="бренчание на гитаре, струна">
+			<class>
+				музыка
+			</class>
+		</usage>
+	</sound>
+	<sound name="трясь">
+		<usage description="трести">
+			<class>
+				действия
+			</class>
+			<original language="en">
+				shake
+			</original>
+		</usage>
+	</sound>
+	<sound name="тудудух">
+		<usage description="падение с лестницы">
+			<class>
+				шумы
+			</class>
+		</usage>
+	</sound>
+	<sound name="тудух">
+		<usage description="удар">
+			<class>
+				шумы
+			</class>
+		</usage>
+	</sound>
+	<sound name="тук">
+		<usage description="стук в дверь">
+			<class>
+				действия
+			</class>
+			<original language="en">
+				knock
+			</original>
+		</usage>
+		<usage description="сердцебиение">
+			<class>
+				человек
+			</class>
+		</usage>
+		<usage description="стук камней">
+			<class>
+				твёрдые предметы
+			</class>
+			<original language="en">
+				clk
+			</original>
+		</usage>
+	</sound>
+	<sound name="тунк">
+		<usage description="падение педмета">
+			<class>
+				шумы
+			</class>
+			<original language="en">
+				thunk
+			</original>
+		</usage>
+		<usage description="приземление после прыжка">
+			<class>
+				шумы
+			</class>
+			<original language="en">
+				whunk
+			</original>
+		</usage>
+	</sound>
+	<sound name="туп">
+		<usage description="лёгкие шаги">
+			<class>
+				действия
+			</class>
+			<original language="en">
+				tap
+			</original>
+		</usage>
+	</sound>
+	<sound name="тутум">
+		<usage description="сердцебиение, пульс">
+			<class>
+				человек
+			</class>
+			<original language="en">
+				throb
+			</original>
+		</usage>
+	</sound>
+	<sound name="туу">
+		<usage description="гудок поезда или парохода">
+			<class>
+				машины
+			</class>
+		</usage>
+	</sound>
+	<sound name="тц">
+		<usage description="цыканье">
+			<class>
+				человек
+			</class>
+			<original language="en">
+				tch
+			</original>
+		</usage>
+	</sound>
+	<sound name="тыгыдым">
+		<usage description="езда на коне">
+			<class>
+				действия
+			</class>
+		</usage>
+	</sound>
+	<sound name="тыдыдых">
+		<usage description="падение с лестницы">
+			<class>
+				шумы
+			</class>
+		</usage>
+	</sound>
+	<sound name="тык">
+		<usage description="тычок">
+			<class>
+				действия
+			</class>
+			<original language="en">
+				poke
+			</original>
+			<original language="en">
+				prod
+			</original>
+		</usage>
+		<usage description="втыкать вилку">
+			<class>
+				действия
+			</class>
+			<original language="en">
+				stab
+			</original>
+		</usage>
+	</sound>
+	<sound name="тыкдык">
+		<usage description="скачки на коньке">
+			<class>
+				действия
+			</class>
+			<original language="en">
+				thwappita
+			</original>
+		</usage>
+	</sound>
+	<sound name="тынк">
+		<usage description="удар, воткнулась стрела">
+			<class>
+				твёрдые предметы
+			</class>
+			<original language="en">
+				thunk
+			</original>
+		</usage>
+	</sound>
+	<sound name="тынц">
+		<usage description="ударные, металлический звон">
+			<class>
+				музыка
+			</class>
+		</usage>
+	</sound>
+	<sound name="тыньк">
+		<usage description="втыкание">
+			<class>
+				действия
+			</class>
+			<original language="en">
+				whunk
+			</original>
+		</usage>
+	</sound>
+	<sound name="тырц">
+		<usage description="втыкается стрела или дротик">
+			<class>
+				твёрдые предметы
+			</class>
+			<original language="en">
+				thunk
+			</original>
+		</usage>
+	</sound>
+	<sound name="тюк">
+		<usage description="приглушённый удар">
+			<class>
+				твёрдые предметы
+			</class>
+			<original language="en">
+				tick
+			</original>
+		</usage>
+	</sound>
+	<sound name="тяф">
+		<usage description="лай щенка или лисы">
+			<class>
+				животные
+			</class>
+		</usage>
+	</sound>
+	<sound name="уаа">
+		<usage description="зевок">
+			<class>
+				человек
+			</class>
+			<original language="en">
+				yawn
+			</original>
+		</usage>
+		<usage description="плач ребёнка">
+			<class>
+				человек
+			</class>
+		</usage>
+	</sound>
+	<sound name="уии">
+		<usage description="визг свиньи">
+			<class>
+				животные
+			</class>
+		</usage>
+	</sound>
+	<sound name="унца">
+		<usage description="ритм музыки в отдалении">
+			<class>
+				музыка
+			</class>
+		</usage>		
+	</sound>
+	<sound name="урр">
+		<usage description="бурчание в животе">
+			<class>
+				человек
+			</class>
+		</usage>
+	</sound>
+	<sound name="уф">
+		<usage description="отдышка">
+			<class>
+				человек
+			</class>
+			<original language="en">
+				hff
+			</original>
+		</usage>
+	</sound>
+	<sound name="уху">
+		<usage description="сова">
+			<class>
+				животные
+			</class>
+		</usage>
+	</sound>
+	<sound name="фвум">
+		<usage description="огонь, пламя">
+			<class>
+				природа
+			</class>
+			<original language="en">
+				foom
+			</original>
+		</usage>
+	</sound>
+	<sound name="фрр">
+		<usage description="птица взлетела">
+			<class>
+				животные
+			</class>
+		</usage>
+	</sound>
+	<sound name="фсс">
+		<usage description="погасла свеча">
+			<class>
+				шумы
+			</class>
+			<original language="en">
+				fsst
+			</original>
+		</usage>
+	</sound>
+	<sound name="фух">
+		<usage description="отдышка">
+			<class>
+				человек
+			</class>
+			<original language="en">
+				pant
+			</original>
+			<original language="en">
+				gasp
+			</original>
+		</usage>
+		<usage description="вздох облегчения">
+			<class>
+				человек
+			</class>
+			<original language="en">
+				phew
+			</original>
+		</usage>
+	</sound>
+	<sound name="фыр">
+		<usage description="фырканье лошади">
+			<class>
+				животные
+			</class>
+			<original language="en">
+				snort
+			</original>
+		</usage>
+	</sound>
+	<sound name="фырк">
+		<usage description="фырканье лошади">
+			<class>
+				животные
+			</class>
+			<original language="en">
+				snork
+			</original>
+		</usage>
+		<usage description="фырканье">
+			<class>
+				человек
+			</class>
+			<original language="en">
+				snork
+			</original>
+		</usage>
+	</sound>
+	<sound name="фьють">
+		<usage description="быстро промелькнуть">
+			<class>
+				действия
+			</class>
+			<original language="en">
+				woosht
+			</original>
+		</usage>
+		<usage description="насвистывать">
+			<class>
+				человек
+			</class>
+		</usage>
+	</sound>
+	<sound name="хак">
+		<usage description="отрубание">
+			<class>
+				действия
+			</class>
+			<original language="en">
+				whak
+			</original>
+		</usage>
+	</sound>
+	<sound name="хап">
+		<usage description="схватить">
+			<class>
+				действия
+			</class>
+		</usage>
+	</sound>
+	<sound name="хах">
+		<usage description="тяжёлое дыхание">
+			<class>
+				человек
+			</class>
+			<original language="en">
+				hah
+			</original>
+		</usage>
+	</sound>
+	<sound name="хахаха">
+		<usage description="смех">
+			<class>
+				человек
+			</class>
+		</usage>
+	</sound>
+	<sound name="хвать">
+		<usage description="хватание">
+			<class>
+				действия
+			</class>
+			<original language="en">
+				snatch
+			</original>
+		</usage>
+		<usage description="залазить">
+			<class>
+				действия
+			</class>
+			<original language="en">
+				climb
+			</original>
+		</usage>
+	</sound>
+	<sound name="хихи">
+		<usage description="смешок">
+			<class>
+				человек
+			</class>
+			<original language="en">
+				tee hee
+			</original>
+		</usage>
+	</sound>
+	<sound name="хихик">
+		<usage description="смешок">
+			<class>
+				человек
+			</class>
+			<original language="en">
+				giggle
+			</original>
+			<original language="en">
+				snicker
+			</original>
+		</usage>
+	</sound>
+	<sound name="хлобысь">
+		<usage description="звонкое падение">
+			<class>
+				шумы
+			</class>
+		</usage>
+	</sound>
+	<sound name="хлоп">
+		<usage description="хлопанье двери">
+			<class>
+				твёрдые предметы
+			</class>
+			<original language="en">
+				slam
+			</original>
+		</usage>
+		<usage description="раскрытие зонтика">
+			<class>
+				твёрдые предметы
+			</class>
+			<original language="en">
+				snap
+			</original>
+		</usage>	
+		<usage description="похлопывание рукой">
+			<class>
+				действия
+			</class>
+			<original language="en">
+				pat
+			</original>
+		</usage>
+		<usage description="шум крыльев">
+			<class>
+				шумы
+			</class>
+			<original language="en">
+				flap
+			</original>
+		</usage>
+	</sound>
+	<sound name="хлюп">
+		<usage description="питьё - отхлёбывание">
+			<class>
+				действия
+			</class>
+			<original language="en">
+				slurp
+			</original>
+		</usage>
+	</sound>
+	<sound name="хлясь">
+		<usage description="шлепок">
+			<class>
+				действия
+			</class>
+			<original language="en">
+				slap
+			</original>
+		</usage>
+		<usage description="пощёчина">
+			<class>
+				действия
+			</class>
+			<original language="en">
+				smack
+			</original>
+		</usage>
+		<usage description="удар веткой">
+			<class>
+				действия
+			</class>
+			<original language="en">
+				fwap
+			</original>
+		</usage>
+	</sound>
+	<sound name="хнык">
+		<usage description="хныканье">
+			<class>
+				действия
+			</class>
+			<original language="en">
+				whimper
+			</original>
+			<original language="en">
+				whine
+			</original>
+		</usage>
+	</sound>
+	<sound name="хоп">
+		<usage description="внезапное действие">
+			<class>
+				эффекты
+			</class>
+			<original language="en">
+				snap
+			</original>
+		</usage>
+		<usage description="внезапное появление">
+			<class>
+				эффекты
+			</class>
+			<original language="en">
+				pop
+			</original>
+		</usage>
+	</sound>
+	<sound name="хохохо">
+		<usage description="смех">
+			<class>
+				человек
+			</class>
+			<original language="en">
+				hohohoh
+			</original>
+		</usage>
+	</sound>
+	<sound name="хренак">
+		<usage description="удар, поломка">
+			<class>
+				эффекты
+			</class>
+		</usage>
+	</sound>
+	<sound name="хрр">
+		<usage description="храп">
+			<class>
+				человек
+			</class>
+			<original language="en">
+				zz
+			</original>
+		</usage>
+	</sound>
+	<sound name="хрум">
+		<usage description="поедание хрустящей еды">
+			<class>
+				действия
+			</class>
+			<original language="en">
+				crunch
+			</original>
+		</usage>
+	</sound>
+	<sound name="хруп">
+		<usage description="шаги по снегу">
+			<class>
+				природа
+			</class>
+		</usage>
+	</sound>
+	<sound name="хрусть">
+		<usage description="хруст">
+			<class>
+				твёрдые предметы
+			</class>
+			<original language="en">
+				crunch
+			</original>
+		</usage>
+	</sound>
+	<sound name="хрусь">
+		<usage description="сломалась ветка">
+			<class>
+				твёрдые предметы
+			</class>
+			<original language="en">
+				snap
+			</original>
+		</usage>
+		<usage description="хруст костяшками пальцев">
+			<class>
+				действия
+			</class>
+			<original language="en">
+				krak
+			</original>
+		</usage>
+	</sound>
+	<sound name="хрю">
+		<usage description="хрюканье свиньи">
+			<class>
+				животные
+			</class>
+		</usage>
+	</sound>
+	<sound name="хрюк">
+		<usage description="хрюканье свиньи">
+			<class>
+				животные
+			</class>
+		</usage>
+	</sound>
+	<sound name="хряп">
+		<usage description="ломаются кости">
+			<class>
+				твёрдые предметы
+			</class>
+			<original language="en">
+				crack
+			</original>
+		</usage>
+	</sound>
+	<sound name="хрясь">
+		<usage description="ломаются камни">
+			<class>
+				твёрдые предметы
+			</class>
+			<original language="en">
+				crack
+			</original>
+		</usage>
+		<usage description="удар с разворота">
+			<class>
+				шумы
+			</class>
+			<original language="en">
+				whang
+			</original>
+		</usage>
+		<usage description="падение">
+			<class>
+				шумы
+			</class>
+			<original language="en">
+				crash
+			</original>
+		</usage>
+	</sound>
+	<sound name="хурк">
+		<usage description="рвота">
+			<class>
+				человек
+			</class>
+			<original language="en">
+				hwrk
+			</original>
+		</usage>
+	</sound>
+	<sound name="хсс">
+		<usage description="шипение">
+			<class>
+				животные
+			</class>
+			<original language="en">
+				hiss
+			</original>
+		</usage>
+	</sound>
+	<sound name="хха">
+		<usage description="выдох">
+			<class>
+				человек
+			</class>
+			<original language="en">
+				hha
+			</original>
+		</usage>
+	</sound>
+	<sound name="цап">
+		<usage description="схватить, укусить">
+			<class>
+				действия
+			</class>
+		</usage>
+	</sound>
+	<sound name="царап">
+		<usage description="поцарапать">
+			<class>
+				действия
+			</class>
+		</usage>
+	</sound>
+	<sound name="цвирк">
+		<usage description="стрёкот сверчка">
+			<class>
+				животные
+			</class>
+			<original language="en">
+				chirp
+			</original>
+		</usage>
+	</sound>
+	<sound name="цок">
+		<usage description="стук копыт">
+			<class>
+				шумы
+			</class>
+			<original language="en">
+				kta
+			</original>
+		</usage>
+	</sound>
+	<sound name="чав">
+		<usage description="жевание">
+			<class>
+				действия
+			</class>
+			<original language="en">
+				chew
+			</original>
+		</usage>
+	</sound>
+	<sound name="чавк">
+		<usage description="жевание">
+			<class>
+				действия
+			</class>
+			<original language="en">
+				munch
+			</original>
+			<original language="en">
+				nom
+			</original>
+		</usage>
+		<usage description="чавканье">
+			<class>
+				действия
+			</class>
+			<original language="en">
+				chomp
+			</original>
+		</usage>
+	</sound>
+	<sound name="чарф">
+		<usage description="ломается / рвётся">
+			<class>
+				шумы
+			</class>
+			<original language="en">
+				rip
+			</original>
+		</usage>
+	</sound>
+	<sound name="чвак">
+		<usage description="хлюпанье болота">
+			<class>
+				жидкости
+			</class>
+		</usage>
+	</sound>
+	<sound name="чик">
+		<usage description="ножницы">
+			<class>
+				твёрдые предметы
+			</class>
+			<original language="en">
+				snip
+			</original>
+		</usage>
+	</sound>
+	<sound name="чирик">
+		<usage description="птицы">
+			<class>
+				животные
+			</class>
+			<original language="en">
+				tweet
+			</original>
+		</usage>
+	</sound>
+	<sound name="чирк">
+		<usage description="резкое короткое движение">
+			<class>
+				действия
+			</class>
+			<original language="en">
+				snikt
+			</original>
+		</usage>
+		<usage description="зажигание спички">
+			<class>
+				твёрдые предметы
+			</class>
+		</usage>
+	</sound>
+	<sound name="чмок">
+		<usage description="поцелуй">
+			<class>
+				действия
+			</class>
+			<original language="en">
+				kiss
+			</original>
+			<original language="en">
+				smooch
+			</original>
+		</usage>
+	</sound>
+	<sound name="чох">
+		<usage description="отрубание">
+			<class>
+				действия
+			</class>
+			<original language="en">
+				chop
+			</original>
+		</usage>
+	</sound>
+	<sound name="чпок">
+		<usage description="разрыв стебля">
+			<class>
+				природа
+			</class>
+			<original language="en">
+				pop
+			</original>
+		</usage>
+		<usage description="выбивание пробки">
+			<class>
+				шумы
+			</class>
+			<original language="en">
+				spoo
+			</original>
+		</usage>
+	</sound>
+	<sound name="чух">
+		<usage description="чесаться">
+			<class>
+				действия
+			</class>
+		</usage>
+		<usage description="звук паровоза">
+			<class>
+				машины
+			</class>
+		</usage>
+	</sound>
+	<sound name="ша">
+		<usage description="шум ветра">
+			<class>
+				природа
+			</class>
+			<original language="en">
+				sha
+			</original>
+		</usage>
+	</sound>
+	<sound name="шась">
+		<usage description="отрубание мечом">
+			<class>
+				действия
+			</class>
+		</usage>
+	</sound>
+	<sound name="шандарах">
+		<usage description="громкий удар">
+			<class>
+				шумы
+			</class>
+		</usage>		
+	</sound>
+	<sound name="шарах">
+		<usage description="удар молнии">
+			<class>
+				природа
+			</class>
+			<class>
+				шумы
+			</class>
+			<original language="en">
+				crack
+			</original>
+		</usage>		
+	</sound>
+	<sound name="шарк">
+		<usage description="засов">
+			<class>
+				твёрдые предметы
+			</class>
+			<original language="en">
+				shunk
+			</original>
+		</usage>
+	</sound>
+	<sound name="шах">
+		<usage description="разрубать воздух со свистом">
+			<class>
+				шумы
+			</class>
+		</usage>
+	</sound>
+	<sound name="швырь">
+		<usage description="швыряние">
+			<class>
+				действия
+			</class>
+			<original language="en">
+				toss
+			</original>
+			<original language="en">
+				chunk
+			</original>
+		</usage>
+	</sound>
+	<sound name="шикшикшик">
+		<usage description="шинкование">
+			<class>
+				действия
+			</class>
+			<original language="en">
+				snk
+			</original>
+		</usage>
+	</sound>
+	<sound name="шкряб">
+		<usage description="шкрябание ногтей по полу">
+			<class>
+				действия
+			</class>
+			<original language="en">
+				skreech
+			</original>
+		</usage>
+	</sound>
+	<sound name="шлёп">
+		<usage description="шлепок">
+			<class>
+				действия
+			</class>
+			<original language="en">
+				slap
+			</original>
+		</usage>
+		<usage description="похлопывание ладонью">
+			<class>
+				действия
+			</class>
+			<original language="en">
+				pat
+			</original>
+		</usage>
+		<usage description="отряхивание рук">
+			<class>
+				действия
+			</class>
+			<original language="en">
+				poff
+			</original>
+		</usage>
+	</sound>
+	<sound name="шмыг">
+		<usage description="шмыгать носом">
+			<class>
+				действия
+			</class>
+			<original language="en">
+				sob
+			</original>
+			<original language="en">
+				sniff
+			</original>
+		</usage>
+		<usage description="прошнырнуть">
+			<class>
+				действия
+			</class>
+			<original language="en">
+				zip
+			</original>
+			<original language="en">
+				sneak
+			</original>
+		</usage>
+	</sound>
+	<sound name="шмяк">
+		<usage description="неупругое соударение">
+			<class>
+				шумы
+			</class>
+		</usage>
+		<usage description="плюхнуться, шмякнуться">
+			<class>
+				действия
+			</class>
+			<original language="en">
+				flop
+			</original>
+		</usage>
+		<usage description="врезаться во что-то твёрдое">
+			<class>
+				действия
+			</class>
+			<original language="en">
+				smack
+			</original>
+		</usage>
+		<usage description="ударяться">
+			<class>
+				действия
+			</class>
+			<original language="en">
+				whap
+			</original>
+		</usage>
+	</sound>
+	<sound name="шнырь">
+		<usage description="прошнырнуть">
+			<class>
+				действия
+			</class>
+			<original language="en">
+				zip
+			</original>
+		</usage>
+	</sound>
+	<sound name="шорх">
+		<usage description="шорох сапог по гравию">
+			<class>
+				шумы
+			</class>
+			<original language="en">
+				skish
+			</original>
+		</usage>
+	</sound>
+	<sound name="шпоньк">
+		<usage description="втыкаться">
+			<class>
+				твёрдые предметы
+			</class>
+		</usage>
+	</sound>
+	<sound name="шурх">
+		<usage description="шебуршение, поиск наощупь">
+			<class>
+				действия
+			</class>
+			<original language="en">
+				scrabble
+			</original>
+		</usage>
+		<usage description="листание страниц">
+			<class>
+				шумы
+			</class>
+			<original language="en">
+				flip
+			</original>
+		</usage>
+		<usage description="ткань волочится по земле">
+			<class>
+				шумы
+			</class>
+			<original language="en">
+				shuffa
+			</original>
+		</usage>
+		<usage description="шорох">
+			<class>
+				шумы
+			</class>
+			<original language="en">
+				rustle
+			</original>
+		</usage>
+	</sound>
+	<sound name="шух">
+		<usage description="трясти чтобы рассыпать">
+			<class>
+				действия
+			</class>
+			<original language="en">
+				toss
+			</original>
+		</usage>
+		<usage description="шорох">
+			<class>
+				шумы
+			</class>
+			<original language="en">
+				schuf
+			</original>
+		</usage>
+		<usage description="подметать метлой">
+			<class>
+				шумы
+			</class>
+			<original language="en">
+				sha
+			</original>
+		</usage>
+	</sound>
+	<sound name="шушушу">
+		<usage description="шёпот">
+			<class>
+				человек
+			</class>
+		</usage>
+	</sound>
+	<sound name="шш">
+		<usage description="шипение">
+			<class>
+				шумы
+			</class>
+			<original language="en">
+				shh
+			</original>
+		</usage>
+	</sound>
+	<sound name="шших">
+		<usage description="доставание меча из ножен">
+			<class>
+				шумы
+			</class>
+			<original language="en">
+				shing
+			</original>
+		</usage>
+	</sound>
+	<sound name="щёлк">
+		<usage description="дверная ручка, замок">
+			<class>
+				твёрдые предметы
+			</class>
+			<original language="en">
+				click
+			</original>
+		</usage>
+		<usage description="ножницы">
+			<class>
+				твёрдые предметы
+			</class>
+			<original language="en">
+				snip
+			</original>
+		</usage>
+		<usage description="щелчок пальцами">
+			<class>
+				действия
+			</class>
+			<original language="en">
+				snap
+			</original>
+		</usage>
+		<usage description="защёлка">
+			<class>
+				твёрдые предметы
+			</class>
+			<original language="en">
+				snap
+			</original>
+		</usage>
+		<usage description="фотоаппарат">
+			<class>
+				машины
+			</class>
+		</usage>
+	</sound>
+	<sound name="эх">
+		<usage description="вздох">
+			<class>
+				человек
+			</class>
+			<original language="en">
+				sigh
+			</original>
+		</usage>
+	</sound>
+</sounds>
