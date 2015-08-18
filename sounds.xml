@@ -392,6 +392,13 @@
 			</original>
 		</usage>
 	</sound>
+	<sound name="вздрог">
+		<usage description="вздрогнуть">
+			<class>
+				действия
+			</class>
+		</usage>
+	</sound>
 	<sound name="виу">
 		<usage description="сирена">
 			<class>
@@ -418,6 +425,13 @@
 	</sound>
 	<sound name="вспых">
 		<usage description="огонь зажёгся">
+			<class>
+				действия
+			</class>
+		</usage>
+	</sound>
+	<sound name="всхлип">
+		<usage description="шмыганье носом при плаче">
 			<class>
 				действия
 			</class>
@@ -2528,6 +2542,13 @@
 			</original>
 		</usage>
 	</sound>
+	<sound name="хых">
+		<usage description="тяжёлое дыхание, отдышка">
+			<class>
+				человек
+			</class>
+		</usage>
+	</sound>
 	<sound name="цап">
 		<usage description="схватить, укусить">
 			<class>
@@ -2540,6 +2561,9 @@
 			<class>
 				действия
 			</class>
+			<original language="en">
+				scratch
+			</original>
 		</usage>
 	</sound>
 	<sound name="цвирк">
